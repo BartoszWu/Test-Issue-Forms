@@ -22,27 +22,29 @@ body:
     id: motivation
     attributes:
       label: Motivation and context
-      description: Tell us why this change is needed or helpfull, and what problem is may help to solve.
+      description: Tell us why this change is needed or helpfull, and what problem is may help to solve. If possible put business reasons for this request.
+    validations:
+      required: true
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Specific timeline issues / requests
+      description: Do you want this work within a specific time period? Is it blocking you with your task?
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
       label: What alternatives have you considered?
-  - type: textarea
-    id: timeline
-    attributes:
-      label: Specific timeline issues / requests
-      description: Do you want this work within a specific time period? Is it blocking you with your task?
   - type: dropdown
     id: complexity
     attributes:
-      label: complexity
-      description: bla bla bla
+      label: Type of request 
+      description: What kind of request you are suggesting.
       options:
         - Small design tweak to existing components
         - Bigger change to an existing component
-        - New component
+        - Create an entirely new component
   - type: checkboxes
     id: terms
     attributes:
