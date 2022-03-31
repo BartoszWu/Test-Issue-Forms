@@ -29,13 +29,11 @@ body:
     id: alternatives
     attributes:
       label: What alternatives have you considered?
-  - type: dropdown
-    id: urgency
+  - type: textarea
+    id: timeline
     attributes:
-      label: Urgency
-      description: How urgent it is to solve this problem
-      options:
-        - label:  Ticket is assigned to `Design System Pod` epic
+      label: Specific timeline issues / requests
+      description: Do you want this work within a specific time period? Is it blocking you with your task?
   - type: dropdown
     id: complexity
     attributes:
