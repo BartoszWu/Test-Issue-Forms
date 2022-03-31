@@ -1,0 +1,56 @@
+name: 🐛 Bug report
+description: Suggest a new idea for design system
+labels: ["frontend"]
+assignees: 
+  - Basilissa108 
+  - BartoszWu
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide a searchable summary of the issue in the title above ⬆️.
+
+        Thanks for contributing by creating an issue! ❤️
+  - type: textarea
+    id: Description
+    attributes:
+      label: Describe the feature you'd like to request
+      description: Provide a clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation and context
+      description: Tell us why this change is needed or helpfull, and what problem is may help to solve.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What alternatives have you considered?
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Urgency
+      description: How urgent it is to solve this problem
+      options:
+        - label:  Ticket is assigned to `Design System Pod` epic
+          required: true
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: complexity
+      description: ???
+      options:
+        - label:  Small design tweak to existing components
+        - label:  Bigger change to an existing component
+        - label:  New component
+          required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Do you want to contribute this feature and create a pull request
+      options:
+        - label: Yes I will be happy to contribute
+          required: true
