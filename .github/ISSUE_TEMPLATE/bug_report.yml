@@ -41,7 +41,7 @@ body:
     id: epic
     attributes:
       label: Zenhub
-      description: Put `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 
+      description: Assign ticket to `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 
       options:
-        - label:  Complete
+        - label:  Ticket is assigned to `Design System Pod` epic
           required: true
