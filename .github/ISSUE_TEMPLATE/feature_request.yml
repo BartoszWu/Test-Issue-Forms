@@ -41,7 +41,7 @@ body:
     id: complexity
     attributes:
       label: complexity
-      description: ???
+      description: bla bla bla
       options:
         - label:  Small design tweak to existing components
         - label:  Bigger change to an existing component
