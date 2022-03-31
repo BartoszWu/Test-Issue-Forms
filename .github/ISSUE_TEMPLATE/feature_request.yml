@@ -11,6 +11,17 @@ body:
         Please provide a searchable summary of the issue in the title above ⬆️.
 
         Thanks for contributing by creating an issue! ❤️
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: Type of request 
+      description: What kind of request you are asking for.
+      options:
+        - Small design tweak to existing components
+        - Bigger change to an existing component
+        - Create an entirely new component
+    validations:
+      required: true
   - type: textarea
     id: Description
     attributes:
@@ -36,15 +47,6 @@ body:
     id: alternatives
     attributes:
       label: What alternatives have you considered?
-  - type: dropdown
-    id: complexity
-    attributes:
-      label: Type of request 
-      description: What kind of request you are suggesting.
-      options:
-        - Small design tweak to existing components
-        - Bigger change to an existing component
-        - Create an entirely new component
   - type: checkboxes
     id: terms
     attributes:
