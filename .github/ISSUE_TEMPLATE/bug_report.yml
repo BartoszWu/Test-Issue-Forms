@@ -18,3 +18,22 @@ body:
       description: Provide a clear and concise description of the challenge you are running into.
     validations:
       required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current behavior
+      description: Describe what happens instead of the expected behavior.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: Describe what should happen.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Detailed list of steps that lead to actual result. 
+        If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
+      placeholder: |
+        e.g. https://design-system.adverity.net/playroom link or code snippet
