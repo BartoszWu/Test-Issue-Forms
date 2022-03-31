@@ -18,25 +18,25 @@ body:
       description: Provide a clear and concise description of what you want to happen.
     validations:
       required: true
-  - type: textarea
-    id: motivation
-    attributes:
-      label: Motivation and context
-      description: Tell us why this change is needed or helpfull, and what problem is may help to solve.
-    validations:
-      required: true
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: What alternatives have you considered?
-  - type: dropdown
-    id: urgency
-    attributes:
-      label: Urgency
-      description: How urgent it is to solve this problem
-      options:
-        - label:  Ticket is assigned to `Design System Pod` epic
-          required: true
+  # - type: textarea
+  #   id: motivation
+  #   attributes:
+  #     label: Motivation and context
+  #     description: Tell us why this change is needed or helpfull, and what problem is may help to solve.
+  #   validations:
+  #     required: true
+  # - type: textarea
+  #   id: alternatives
+  #   attributes:
+  #     label: What alternatives have you considered?
+  # - type: dropdown
+  #   id: urgency
+  #   attributes:
+  #     label: Urgency
+  #     description: How urgent it is to solve this problem
+  #     options:
+  #       - label:  Ticket is assigned to `Design System Pod` epic
+  #         required: true
   # - type: dropdown
   #   id: complexity
   #   attributes:
