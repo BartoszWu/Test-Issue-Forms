@@ -2,10 +2,10 @@ blank_issues_enabled: false
 contact_links:
   - name: Storybook
     url: https://design-system.adverity.net/
-    about: Storybook URL
+    about: Storybook with design system components.
   - name: Playroom
     url: https://design-system.adverity.net/playroom
-    about: Playroom URL
+    about: Playroom to play with DS components in browser.
   - name: Slack channel
     url: https://adverity.slack.com/archives/CDF6T0JUD
-    about: Dedicated slack channel for all technical questions around design system
+    about: Dedicated slack channel for all technical questions around design system.
