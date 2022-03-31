@@ -53,3 +53,11 @@ body:
       label: Do you want to contribute this feature and create a pull request
       options:
         - label: Yes I will be happy to contribute
+  - type: checkboxes
+    id: epic
+    attributes:
+      label: Zenhub
+      description: Assign ticket to `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 
+      options:
+        - label:  Ticket is assigned to `Design System Pod` epic
+          required: true
