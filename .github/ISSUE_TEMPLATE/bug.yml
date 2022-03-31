@@ -1,0 +1,42 @@
+name: 🐛 Bug report
+description: Report a reproducible bug or regression
+labels: ["bug", "frontend"]
+assignees: 
+  - Basilissa108 
+  - BartoszWu
+
+  body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide a searchable summary of the issue in the title above ⬆️.
+
+        Thanks for contributing by creating an issue! ❤️
+  - type: textarea
+    id: Description
+    attributes:
+      label: Describe the bug
+      description: Provide a clear and concise description of the challenge you are running into.
+    validations:
+      requireD: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current behavior
+      description: |
+        Describe what happens instead of the expected behavior.
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: |
+        Describe what should happen.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Detailed list of steps that lead to actual result. 
+        If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
+      placeholder: |
+        e.g. https://design-system.adverity.net/playroom link or code snippet
