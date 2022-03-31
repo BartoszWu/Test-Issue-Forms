@@ -11,11 +11,10 @@ body:
         Please provide a searchable summary of the issue in the title above ⬆️.
 
         Thanks for contributing by creating an issue! ❤️
-  - type: input
-    id: contact
+  - type: mardown
+    id: Description
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Describe the bug
+      description: Provide a clear and concise description of the challenge you are running into.
     validations:
       required: false
