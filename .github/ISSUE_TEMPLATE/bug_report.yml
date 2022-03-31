@@ -11,10 +11,10 @@ body:
         Please provide a searchable summary of the issue in the title above ⬆️.
 
         Thanks for contributing by creating an issue! ❤️
-  - type: markdown
+  - type: textarea
     id: Description
     attributes:
       label: Describe the bug
       description: Provide a clear and concise description of the challenge you are running into.
     validations:
-      required: false
+      required: true
