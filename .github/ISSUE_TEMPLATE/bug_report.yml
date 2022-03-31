@@ -39,6 +39,12 @@ body:
       placeholder: |
         e.g. https://design-system.adverity.net/playroom link or code snippet
   - type: checkboxes
+    id: terms
+    attributes:
+      label: Do you want to contribute this feature and create a pull request
+      options:
+        - label: Yes I will be happy to contribute
+  - type: checkboxes
     id: epic
     attributes:
       label: Zenhub
