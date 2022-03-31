@@ -36,8 +36,6 @@ body:
       description: How urgent it is to solve this problem
       options:
         - Ticket is assigned to `Design System Pod` epic
-    validations:
-      required: true
   - type: dropdown
     id: complexity
     attributes:
@@ -55,4 +53,3 @@ body:
       label: Do you want to contribute this feature and create a pull request
       options:
         - Yes I will be happy to contribute
-          required: true
