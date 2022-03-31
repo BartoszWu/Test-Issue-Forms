@@ -37,3 +37,11 @@ body:
         If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
       placeholder: |
         e.g. https://design-system.adverity.net/playroom link or code snippet
+  - type: checkboxes
+    id: epic
+    attributes:
+      label: Zenhub
+      description: Put `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 
+      options:
+        - label:  Complete
+          required: true
