@@ -1,4 +1,5 @@
 name: 🐛 Bug report
+title: "[Request]: "
 description: Report a reproducible bug or regression
 labels: ["bug", "frontend"]
 assignees: 
