@@ -35,7 +35,7 @@ body:
       label: Urgency
       description: How urgent it is to solve this problem
       options:
-        - Ticket is assigned to `Design System Pod` epic
+        - label:  Ticket is assigned to `Design System Pod` epic
   - type: dropdown
     id: complexity
     attributes:
@@ -45,11 +45,9 @@ body:
         - Small design tweak to existing components
         - Bigger change to an existing component
         - New component
-    validations:
-      required: true
   - type: checkboxes
     id: terms
     attributes:
       label: Do you want to contribute this feature and create a pull request
       options:
-        - Yes I will be happy to contribute
+        - label: Yes I will be happy to contribute
