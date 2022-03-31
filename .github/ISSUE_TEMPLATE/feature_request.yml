@@ -36,6 +36,7 @@ body:
       description: How urgent it is to solve this problem
       options:
         - Ticket is assigned to `Design System Pod` epic
+    validations:
       required: true
   - type: dropdown
     id: complexity
@@ -46,7 +47,8 @@ body:
         - Small design tweak to existing components
         - Bigger change to an existing component
         - New component
-        required: true
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
