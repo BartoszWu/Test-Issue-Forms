@@ -38,6 +38,11 @@ body:
         If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
       placeholder: |
         e.g. https://design-system.adverity.net/playroom link or code snippet
+    attributes:
+      label: Specific timeline issues / requests
+      description: Do you want this work within a specific time period? Is it blocking you with your task?
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
