@@ -1,6 +1,6 @@
 name:  💡 Feature request
 title: "[Request]: "
-description: Suggest a new idea for design system
+description: Suggest a new idea for the design system
 labels: ["frontend"]
 assignees: 
   - Basilissa108 
@@ -34,14 +34,14 @@ body:
     id: motivation
     attributes:
       label: Motivation and context
-      description: Tell us why this change is needed or helpfull, and what problem is may help to solve. If possible add business reasons for this request.
+      description: Tell us why this change is needed or helpful, and what problem it may help to solve. If possible add some business/product context to help us understand the request better.
     validations:
       required: true
   - type: textarea
     id: timeline
     attributes:
       label: Specific timeline issues / requests
-      description: Do you want this work within a specific time period? Is it blocking you with your task?
+      description: Is it blocking you? When will you need it approximately? If possible, please include links to the related product issues here.
     validations:
       required: true
   - type: textarea
@@ -53,7 +53,7 @@ body:
     attributes:
       label: Do you want to contribute this feature and create a pull request
       options:
-        - label: Yes I will be happy to contribute
+        - label: Yes, I will be happy to contribute! 💪
   - type: checkboxes
     id: epic
     attributes:

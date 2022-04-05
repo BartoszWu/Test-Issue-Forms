@@ -40,15 +40,15 @@ body:
         e.g. https://design-system.adverity.net/playroom link or code snippet
     attributes:
       label: Specific timeline issues / requests
-      description: Do you want this work within a specific time period? Is it blocking you with your task?
+      description: Is it blocking you? When will you need it approximately?
     validations:
       required: true
   - type: checkboxes
     id: terms
     attributes:
-      label: Do you want to contribute this bug and create a pull request
+      label: Do you want to contribute a bug fix and create a pull request
       options:
-        - label: Yes I will be happy to contribute
+        - label: Yes, I will be happy to contribute! 💪
   - type: checkboxes
     id: epic
     attributes:
