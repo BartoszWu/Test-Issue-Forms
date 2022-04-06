@@ -18,10 +18,12 @@ Small design tweak / Bigger change / New component
 <!-- Provide a clear and concise description of what you want to happen. -->
 
 ## [Required] Motivation and context
-<!-- Tell us why this change is needed or helpful, and what problem it may help to solve. If possible add some business/product context to help us understand the request better.  -->
+<!-- Tell us why this change is needed or helpful, and what problem it may help to solve. 
+If possible add some business/product context to help us understand the request better.  -->
 
 ## [Required] Specific timeline issues / requests
-<!-- Is it blocking you? When will you need it approximately? If possible, please include links to the related product issues here.  -->
+<!-- Is it blocking you? When will you need it approximately?
+ If possible, please include links to the related product issues here.  -->
 
 ## What alternatives have you considered?
 
