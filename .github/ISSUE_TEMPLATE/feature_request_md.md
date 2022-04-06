@@ -30,7 +30,7 @@ One of: Small design tweak / Bigger change / New component
 ##  Specific timeline issues / requests *
 <!-- REQUIRED FIELD
         Is it blocking you? When will you need it approximately?
-         If possible, please include links to the related product issues here. 
+        If possible, please include links to the related product issues here. 
  -->
 
 ## What alternatives have you considered?
