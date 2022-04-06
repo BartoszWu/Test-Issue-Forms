@@ -10,8 +10,8 @@ Please provide a searchable summary of the issue in the title above ⬆️.
 Thanks for contributing by creating an issue! ❤️
 Please assign ticket to `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 
 
-## [Required] Type of request 
-<!-- What kind of request you are asking for. -->
+## [Required] Type of request  <!-- What kind of request you are asking for. -->
+
 Small design tweak / Bigger change / New component
 
 ## [Required] Description
