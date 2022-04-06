@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report [Markdown]
 about: Report a reproducible bug or regression
 title: "[Request]: "
 labels: frontend, bug
@@ -12,6 +12,7 @@ Please assign ticket to `Design System Pod` in the `Epics` so it will be immedia
 
 ## [Required] Describe the bug
 <!-- Provide a clear and concise description of the challenge you are running into. -->
+
  ## [Required]Specific timeline issues / requests
  <!-- Is it blocking you? When will you need it approximately? If possible, please include links to the related product issues here.  -->
 
@@ -26,7 +27,7 @@ Please assign ticket to `Design System Pod` in the `Epics` so it will be immedia
         Detailed list of steps that lead to actual result. 
         If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
  -->
- 
+
  ## What alternatives have you considered? 
 
 ##  Do you want to contribute this feature and create a pull request
