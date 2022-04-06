@@ -10,7 +10,7 @@ Please provide a searchable summary of the issue in the title above ⬆️.
 Thanks for contributing by creating an issue! ❤️
 Please assign ticket to `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 🙏
 
-## Describe the bug*
+## Describe the bug ⋆ ★ *
 <!-- Provide a clear and concise description of the challenge you are running into. -->
 
  ## [Required]Specific timeline issues / requests
