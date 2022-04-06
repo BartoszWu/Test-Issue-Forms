@@ -14,7 +14,8 @@ Please assign ticket to `Design System Pod` in the `Epics` so it will be immedia
 <!-- Provide a clear and concise description of the challenge you are running into. -->
 
  ## [Required]Specific timeline issues / requests
- <!-- Is it blocking you? When will you need it approximately? If possible, please include links to the related product issues here.  -->
+ <!-- Is it blocking you? When will you need it approximately? 
+ If possible, please include links to the related product issues here.  -->
 
 ## Current behavior
 <!-- Describe what happens instead of the expected behavior.  -->
@@ -25,7 +26,8 @@ Please assign ticket to `Design System Pod` in the `Epics` so it will be immedia
 ## Steps to reproduce
 <!-- 
         Detailed list of steps that lead to actual result. 
-        If possible please provide https://design-system.adverity.net/playroom link or put snippet of code that we can reproduce issue.
+        If possible please provide https://design-system.adverity.net/playroom link 
+        or put snippet of code that we can reproduce issue.
  -->
 
  ## What alternatives have you considered? 
