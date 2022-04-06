@@ -10,11 +10,13 @@ Please provide a searchable summary of the issue in the title above ⬆️.
 Thanks for contributing by creating an issue! ❤️
 Please assign ticket to `Design System Pod` in the `Epics` so it will be immediately visible in Design system board 🙏
 
-## Describe the bug ⋆ ★ *
-<!-- Provide a clear and concise description of the challenge you are running into. -->
+## Describe the bug *
+<!-- REQUIRED
+        Provide a clear and concise description of the challenge you are running into. 
+-->
 
- ## [Required]Specific timeline issues / requests
-<!-- 
+ ## Specific timeline issues / requests *
+<!-- REQUIRED
         Is it blocking you? When will you need it approximately? 
          If possible, please include links to the related product issues here. 
  -->
