@@ -22,11 +22,13 @@ Small design tweak / Bigger change / New component
         Tell us why this change is needed or helpful, and what problem it may help to solve. 
         If possible add some business/product context to help us understand the request better. 
  -->
+
 ## [Required] Specific timeline issues / requests
 <!-- 
         Is it blocking you? When will you need it approximately?
          If possible, please include links to the related product issues here. 
  -->
+ 
 ## What alternatives have you considered?
 
 ##  Do you want to contribute this feature and create a pull request
