@@ -14,10 +14,10 @@ Please assign ticket to `Design System Pod` in the `Epics` so it will be immedia
 <!-- What kind of request you are asking for. -->
 Small design tweak / Bigger change / New component
 
-## 🚨  Description
+## * Description
 <!-- Provide a clear and concise description of what you want to happen. -->
 
-## 🚨 Motivation and context
+## * Motivation and context
 <!-- 
         Tell us why this change is needed or helpful, and what problem it may help to solve. 
         If possible add some business/product context to help us understand the request better. 
