@@ -1,4 +1,4 @@
-name: 🐛  Bug report
+name: 🐛  Bug report YML
 title: "[Request]: "
 description: Report a reproducible bug or regression
 labels: ["bug", "frontend"]

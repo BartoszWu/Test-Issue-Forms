@@ -1,5 +1,5 @@
 ---
-name: 💡 Feature Request [MD]
+name: 💡 Feature Request
 about: Report a reproducible bug or regression
 title: "[Request]: "
 labels: frontend

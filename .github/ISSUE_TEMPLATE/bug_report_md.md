@@ -1,5 +1,5 @@
 ---
-name: 🐛  Bug report [MD]
+name: 🐛  Bug report
 about: Report a reproducible bug or regression
 title: "[Request]: "
 labels: frontend, bug
